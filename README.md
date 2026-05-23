@@ -197,6 +197,7 @@ Prompt Engineering is an important skill for modern BCA students. It helps stude
 Screeshorts Of Prompt Outputs
 =============================
 
+<img width="538" height="85" alt="task_01_prompt" src="https://github.com/user-attachments/assets/bb8d1f07-3ca1-4338-b0a9-d14d60f38904" />
 
 <img width="955" height="435" alt="task_01_output 01" src="https://github.com/user-attachments/assets/cf0cab74-eca3-42d1-b631-d2fa3ae50cdd" />
 
