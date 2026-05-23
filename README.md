@@ -1,5 +1,5 @@
 # Task_01
-What is Prompt Engineering?
+Explain Prompt Enginnering for BCA 2nd year students 
 
 Prompt Engineering is the process of writing clear and effective instructions (prompts) for AI tools like OpenAI ChatGPT, Gemini, Copilot, and other AI systems to get accurate and useful results.
 
